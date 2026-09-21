@@ -123,6 +123,6 @@ smoke_test_day4.py dev helper: scripted real-subprocess smoke test for Day 4
 
 ## GitHub repo
 
-Code for this project is committed locally in this repository
-(`projects/2026-09-11-expert-miniraft/`) and pending Frank's manual push to
-https://github.com/fikris6889-tech/daily-teaching-series.
+This project is live at: <https://github.com/fikris6889-tech/miniraft>
+
+Part of the **Fikris Lab** portfolio of systems and algorithms projects: <https://github.com/fikris6889-tech/Fikris-lab>
