@@ -1,0 +1,4 @@
+# MiniRaft has zero third-party dependencies on purpose (stdlib
+# http.server + urllib only) so the cluster runs anywhere Python 3.8+
+# runs, with no pip install step. This file exists so tooling that
+# expects one doesn't break; it's intentionally empty of packages.
